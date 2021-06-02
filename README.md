@@ -1,4 +1,4 @@
-# windows-office_activation
+# Windows & Office Activation
 Script which activate Windows 10 &amp; Office automatically.
 
 1. Create folder "Windows & office Activation".
