@@ -1,4 +1,4 @@
-# About
+# Windows & Office activation
 Script which activate Windows 10 &amp; Office automatically.
 
 [![made-with-powershell](https://img.shields.io/badge/Made%20with-Powershell-1f425f.svg)](https://docs.microsoft.com/en-us/powershell/)
