@@ -4,7 +4,6 @@ CD %~dp0
 title %~n0
 color F0
 echo.
-echo @by_Rahman
 
 echo.
 call :. Starting_Scripts  
